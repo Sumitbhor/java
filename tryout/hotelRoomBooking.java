@@ -1,3 +1,4 @@
+
 import java.util.Scanner ;
 class hotelRoomBooking{
     public static void main(String args[]){

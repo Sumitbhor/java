@@ -38,7 +38,7 @@ class ATM {
 public class ATM_Simulation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        ATM atm = new ATM(5000.0);  // Initial balance
+        ATM atm = new ATM(5000);
 
         while (true) {
             try {
