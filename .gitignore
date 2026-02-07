@@ -1,0 +1,77 @@
+# =========================
+# Java Compiled Files
+# =========================
+*.class
+
+# =========================
+# Package Files
+# =========================
+*.jar
+*.war
+*.ear
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary Files
+# =========================
+*.tmp
+*.temp
+*.swp
+*~
+
+# =========================
+# OS Generated Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE Files (Eclipse / IntelliJ / VSCode)
+# =========================
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# VS Code
+.vscode/
+
+# =========================
+# Build Directories
+# =========================
+target/
+build/
+bin/
+
+# =========================
+# Maven / Gradle
+# =========================
+.mvn/
+.gradle/
+
+# =========================
+# Environment / Secrets
+# =========================
+.env
+*.properties
+
+# =========================
+# Crash Reports
+# =========================
+hs_err_pid*
+
+# =========================
+# Backup Files
+# =========================
+*.bak
+*.old
